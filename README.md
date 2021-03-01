@@ -28,3 +28,10 @@ End point:                          Point to Zoologischer Garten
 
 ![](Shortest.png)<!-- -->
 
+
+### Step 6: Distance
+```
+Open Attribute Table
+```
+
+![](Cost.PNG)<!-- -->
