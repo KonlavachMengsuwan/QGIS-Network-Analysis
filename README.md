@@ -31,7 +31,7 @@ End point:                          Point to Zoologischer Garten
 
 ### Step 6: Distance
 ```
-Open Attribute Table
+Open Attribute Table: Cost (Distance in meters)
 ```
 
 ![](Cost.PNG)<!-- -->
